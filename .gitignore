@@ -13,9 +13,10 @@ build/
 **/[Ff]onts
 [Cc]ontent/[Bb]ootstrap*.css
 /Content/bootstrap.min.css
-**/App_Data/*.mdf
-**/App_Data/*.ldf
 .vs
+*.mdf
+*.ldf
+*.ndf
 *.suo
 *.user
 *.exe
